@@ -1,0 +1,20 @@
+{
+  "overview": "A canvas-based 2D car racing game where you pilot a red car through traffic, dodge enemy vehicles, collect power-ups, and chase the highest score.",
+  "features": [
+    "Player red car with smooth arrow key / WASD controls",
+    "Enemy black cars spawning and scrolling toward you",
+    "Shield power-up restores health; star power-up awards bonus points",
+    "Particle explosion effects on collision",
+    "Health system, score tracking, pause/resume, and game-over modal",
+    "Responsive layout for desktop and mobile"
+  ],
+  "category": "game",
+  "tags": [
+    "game",
+    "car",
+    "racing",
+    "canvas",
+    "arcade"
+  ],
+  "last_updated": "2026-05-04T16:31:05.351Z"
+}
